@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Cầu Ma</string>
+
+    <string name="action_settings">Cài đặt</string>
+    <string name="action_sort">Sắp xếp</string>
+    <string name="action_bookmark">Chương đã đọc</string>
+    <string name="action_previous">Previous</string>
+    <string name="action_font_setting">Cài đặt chữ</string>
+    <string name="action_next">Next</string>
+    <string name="action_finish">Finish</string>
+
+    <!-- Common string -->
+    <string name="common_about">Giới thiệu</string>
+    <string name="common_store">Store</string>
+    <string name="common_more_book">Truyện khác</string>
+    <string name="common_fantasy">Truyện tiên hiệp</string>
+    <string name="common_action">Truyện kiếm hiệp</string>
+    <string name="common_romantic">Truyện ngôn tình</string>
+    <string name="common_page_position" formatted="false">%d/%d</string>
+    <string name="common_chap_name">Chương %d</string>
+    <string name="common_text_size">Cỡ chữ: </string>
+    <string name="common_font">Phông chữ: </string>
+    <string name="common_color">Màu: </string>
+    <string name="common_margins">Căn lề: </string>
+    <string name="common_line_spacing">Dãn dòng: </string>
+    <string name="common_droid_serif">Droid Serif</string>
+    <string name="common_roboto">Roboto</string>
+    <string name="common_droid_sans">Droid Sans</string>
+    <string name="common_narrow">Narrow</string>
+    <string name="common_normal">Normal</string>
+    <string name="common_wide">Wide</string>
+    <string name="dialog_message_chap_first">Bạn đa đọc chap đầu tiên</string>
+    <string name="dialog_message_chap_end">Bạn đa đọc chap cuối cùng</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+</resources>

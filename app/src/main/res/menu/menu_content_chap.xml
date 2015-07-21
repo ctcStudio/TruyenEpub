@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:yourapp="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_font_setting"
+        android:icon="@drawable/btn_selector_font"
+        android:title="@string/action_font_setting"
+        yourapp:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_next"
+        android:orderInCategory="100"
+        android:title="@string/action_next"
+        yourapp:showAsAction="never" />
+    <item
+        android:id="@+id/action_previous"
+        android:orderInCategory="100"
+        android:title="@string/action_previous"
+        yourapp:showAsAction="never" />
+</menu>
